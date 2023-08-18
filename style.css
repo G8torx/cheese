@@ -1,0 +1,52 @@
+body{
+    background-color: orange;
+}
+
+h1{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 5;
+    font-family: verdana;
+    color: white;
+    font-size: 100px;
+}
+
+p{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: verdana;
+    color: white;
+    font-size: 30px;
+}
+
+.idk{
+    color: white;
+    margin: 0;
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 50px;
+    font-family: verdana; 
+    color: white;
+    font-size: 10px;
+}
+
+.desc{
+    display: inline-block;
+    color:white;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 50px;
+    font-family: verdana;
+    color: white;
+    font-size: 40px;
+}
